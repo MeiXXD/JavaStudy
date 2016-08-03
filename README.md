@@ -1,2 +1,2 @@
 # JavaStudy
-IntelliJ IDEA远程库
+Java日常知识学习
