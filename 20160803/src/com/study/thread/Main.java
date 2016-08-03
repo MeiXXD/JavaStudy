@@ -44,7 +44,7 @@ public final class Main {
 //        Thread thread3 = new Thread(myRunnable3);
 //
 //        thread1.start();
-//        thread2.start();Å
+//        thread2.start();
 //        thread3.start();
 
         //同步运行
